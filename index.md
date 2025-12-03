@@ -59,9 +59,9 @@ Hands-on exploration of running and fine-tuning Large Language Models locally. C
 
 ## Contact
 
-📧 [shaik.shabana@intecc.com](mailto:shaik.shabana@intecc.com)
+📧 [shaikshabana2022@gmail.com](mailto:shaikshabana2022@gmail.com)
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/shabanashaik1/])
+🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
 
 💻 [GitHub](https://github.com/shabanshaik)
 
